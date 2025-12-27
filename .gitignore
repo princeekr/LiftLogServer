@@ -1,0 +1,64 @@
+# =====================
+# Node / JavaScript
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =====================
+# Environment variables
+# =====================
+.env
+.env.local
+.env.development
+.env.production
+
+# =====================
+# Build / Dist folders
+# =====================
+dist/
+build/
+out/
+
+# =====================
+# Vite / React / Next
+# =====================
+.vite/
+.next/
+.vercel/
+
+# =====================
+# Backend specific
+# =====================
+logs/
+*.log
+
+# SQLite / DB files
+*.sqlite
+*.sqlite3
+*.db
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Editor / IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# Coverage / Testing
+# =====================
+coverage/
+
+# =====================
+# Misc
+# =====================
+*.tgz
